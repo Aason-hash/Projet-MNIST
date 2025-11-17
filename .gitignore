@@ -1,0 +1,15 @@
+# Environnement virtuel
+env/
+
+# Cache Python
+__pycache__/
+
+# Dataset
+data/
+
+# Poids du modèle PyTorch
+*.pth
+*.pt
+
+# Fichiers système Windows
+Thumbs.db
